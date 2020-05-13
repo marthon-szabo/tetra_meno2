@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6734efd3-c8b9-47eb-a00e-a30f624e068d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bo0AflNYze8nBaCBzIuFHxctGs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.11299437" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Hangman2 [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6734efd3-c8b9-47eb-a00e-a30f624e068d" name="Default Changelist" comment="" />
+      <created>1589282996195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589282996195</updated>
+      <workItem from="1589282999398" duration="299000" />
+      <workItem from="1589284128732" duration="2379000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add develop branch">
+      <created>1589287728230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589287728230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add develop branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add develop branch" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="219" key="#Project_Structure" timestamp="1589283177826">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="531" y="219" key="#Project_Structure/0.36.1920.1044@0.36.1920.1044" timestamp="1589283177826" />
+    <state x="314" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589285929734">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="314" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.801@0.23.1440.801" timestamp="1589285929734" />
+    <state x="418" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1589283363906" />
+    <state x="763" y="436" width="308" height="218" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589287401883">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="572" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.801@0.23.1440.801" timestamp="1589284175936" />
+    <state x="763" y="436" width="308" height="218" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1589287401883" />
+    <state x="463" y="133" width="984" height="851" key="CommitChangelistDialog2" timestamp="1589361287160">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="463" y="133" width="984" height="851" key="CommitChangelistDialog2/0.36.1920.1044@0.36.1920.1044" timestamp="1589361287160" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1589299977936">
+      <screen x="0" y="36" width="1440" height="774" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1589286425373" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.36.1440.774@0.36.1440.774" timestamp="1589299977936" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.36.1920.1044@0.36.1920.1044" timestamp="1589287574373" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1589299977933">
+      <screen x="0" y="36" width="1440" height="774" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1589286425373" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center/0.36.1440.774@0.36.1440.774" timestamp="1589299977933" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center/0.36.1920.1044@0.36.1920.1044" timestamp="1589287574373" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1589299977929">
+      <screen x="0" y="36" width="1440" height="774" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1589286425372" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left/0.36.1440.774@0.36.1440.774" timestamp="1589299977929" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left/0.36.1920.1044@0.36.1920.1044" timestamp="1589287574373" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1589299977934">
+      <screen x="0" y="36" width="1440" height="774" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1589286425373" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right/0.36.1440.774@0.36.1440.774" timestamp="1589299977934" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right/0.36.1920.1044@0.36.1920.1044" timestamp="1589287574373" />
+    <state x="332" y="99" width="900" height="722" key="SettingsEditor" timestamp="1589284343783">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="332" y="99" width="900" height="722" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1589284343783" />
+    <state x="443" y="135" width="1024" height="847" key="SettingsEditor/0.36.1920.1044@0.36.1920.1044" timestamp="1589283159850" />
+    <state x="555" y="282" width="800" height="553" key="Vcs.Push.Dialog.v2" timestamp="1589287732100">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="555" y="282" width="800" height="553" key="Vcs.Push.Dialog.v2/0.36.1920.1044@0.36.1920.1044" timestamp="1589287732100" />
+    <state x="578" y="351" width="764" height="415" key="git4idea.merge.GitPullDialog" timestamp="1589361298492">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="578" y="351" width="764" height="415" key="git4idea.merge.GitPullDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1589361298492" />
+    <state x="29" y="127" width="1372" height="594" key="new project wizard" timestamp="1589299972188">
+      <screen x="0" y="36" width="1440" height="774" />
+    </state>
+    <state x="29" y="127" width="1372" height="594" key="new project wizard/0.36.1440.774@0.36.1440.774" timestamp="1589299972188" />
+  </component>
+</project>
